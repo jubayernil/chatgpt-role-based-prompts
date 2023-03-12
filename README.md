@@ -1,1 +1,3 @@
-# chatgpt-role-based-prompts
+"This repository includes examples of role-based prompts for ChatGPT, which you can use for your personal use."
+
+In this sentence, "repository" refers to a collection of files and data stored in a central location. "Role-based prompts" are prompts that are tailored to specific roles, such as customer service representatives or medical professionals, to help generate more relevant responses from ChatGPT. The sentence also suggests that the prompts provided in the repository are free to use for personal purposes, but it's important to check the license or terms of use of the specific repository to ensure proper usage.
